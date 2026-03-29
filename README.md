@@ -159,4 +159,4 @@ pytest --cov=app tests/
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](License.md).
